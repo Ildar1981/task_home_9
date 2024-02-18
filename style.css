@@ -1,0 +1,15 @@
+body {
+    
+    background-color: aquamarine;
+}
+
+.container {
+    padding: 100px;
+    bottom: auto;
+    color: gold;
+    border-radius: 5px;
+}
+
+.button {
+ margin: auto;
+}
